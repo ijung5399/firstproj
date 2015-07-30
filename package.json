@@ -1,0 +1,24 @@
+{
+  "name": "firstproj",
+  "version": "1.0.0",
+  "description": "My first node project with express and passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijung5399/firstproj.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "passport"
+  ],
+  "author": "Il Mo Jung",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ijung5399/firstproj/issues"
+  },
+  "homepage": "https://github.com/ijung5399/firstproj#readme"
+}
